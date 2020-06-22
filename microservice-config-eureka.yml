@@ -22,7 +22,7 @@ eureka:
       #集群版
       #这个地址暴露给其他服务进行调用的
       # 多个eureka服务器地址使用逗号隔开
-      defaultZone: http://eureka6002.com:6002/eureka/
+      defaultZone: http://eureka6001.com:6001/eureka/
   server:
     enable-self-preservation: false #禁用自我保护机制
     
@@ -46,6 +46,6 @@ eureka:
       #集群版
       #这个地址暴露给其他服务进行调用的
       # 多个eureka服务器地址使用逗号隔开
-      defaultZone: http://eureka6002.com:6002/eureka/
+      defaultZone: http://eureka6001.com:6001/eureka/
   server:
     enable-self-preservation: true #禁用自我保护机制***************
