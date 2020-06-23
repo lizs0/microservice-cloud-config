@@ -75,4 +75,4 @@ eureka:
     prefer-ip-address: true #左下角 访问路径就会显示成IP地址
     
 emp:
-  name: lisi
+  name: wangwu
